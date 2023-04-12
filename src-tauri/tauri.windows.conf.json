@@ -1,14 +1,14 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["png/weread_256.ico", "png/weread_32.ico"],
-      "identifier": "com.tw93.weread",
+      "icon": ["png/youmusic_256.ico", "png/youmusic_32.ico"],
+      "identifier": "com.luathn.youmusic",
       "active": true,
-      "category": "DeveloperTool",
+      "category": "Music",
       "copyright": "",
       "externalBin": [],
       "longDescription": "",
-      "resources": ["png/weread_32.ico"],
+      "resources": ["png/youmusic_32.ico"],
       "shortDescription": "",
       "targets": ["msi"],
       "windows": {

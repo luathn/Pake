@@ -1,10 +1,10 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["icons/weread.icns"],
-      "identifier": "com.tw93.weread1",
+      "icon": ["icons/youmusic.icns"],
+      "identifier": "com.luathn.youmusic",
       "active": true,
-      "category": "DeveloperTool",
+      "category": "Music",
       "copyright": "",
       "externalBin": [],
       "longDescription": "",
@@ -16,7 +16,7 @@
         "signingIdentity": null
       },
       "resources": [],
-      "shortDescription": "",
+      "shortDescription": "Youtube Music app",
       "targets": ["dmg"]
     }
   }
